@@ -30,7 +30,7 @@ landingContent:
           - text: Quickstart - Corona
             url: ../lua/quickstart-corona.md
           - text: Quickstart - Defold
-            url: ../lua/quickstart-corona.md
+            url: ../lua/quickstart-defold.md
 
   # Card
   - title: Unity3D
